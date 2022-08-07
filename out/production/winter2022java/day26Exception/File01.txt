@@ -1,0 +1,6 @@
+We ara in Java Class :))))
+oop concept has 4 principles
+1)polymorphism
+2)inheritance
+3) encapsulation
+4) abstraction

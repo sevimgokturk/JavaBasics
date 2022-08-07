@@ -1,0 +1,7 @@
+java is easy to learn
+we are about to end
+oop:
+encapsulation
+inheritance
+polymorphism
+abstraction
